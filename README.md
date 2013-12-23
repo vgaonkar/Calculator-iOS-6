@@ -1,11 +1,14 @@
 Calculator
 ==========
 
-A basic calculator for the iPhone.
+A basic calculator app that can perform some trigonometric and memory operations in addition to basic arithmetic. 
 
-This is my first iOS application so it doesn't follow the MVC pattern and code quality isn't good. 
+###Screenshot
+![](https://raw.github.com/vgaonkar/Calculator/master/screenshot.png)
 
-Issues:
+###Issues:
 - Works with iOS 6 but hasn't been tested for other versions.
+- Doesn't follow MVC pattern
+- Bad code quality
 - Need to improve the UI
 - Minor bug fixes needed
