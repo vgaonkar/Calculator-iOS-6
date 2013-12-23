@@ -3,7 +3,7 @@ Calculator
 
 A basic calculator app that can perform some trigonometric and memory operations in addition to basic arithmetic. 
 
-###Screenshot
+###Screenshot:
 ![](https://raw.github.com/vgaonkar/Calculator/master/screenshot.png)
 
 ###Issues:
